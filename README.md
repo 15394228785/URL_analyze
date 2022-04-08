@@ -3,7 +3,8 @@
 
 # 操作
 编译运行
-gcc url.c -o run ./run
+gcc url_analyze.c -o url_analyze
+./url_analyze
 
 # 设计参考文章
 关于url基础知识点文章，请参考以下文章：
